@@ -19,7 +19,7 @@ master ✕✓? ↑1↓5
 ...with the original git prompt
 
 ```bash
-master *+% u+1-5
+master *+%|u+1-5
 ```
 
 ## Usage
