@@ -1,6 +1,6 @@
 # Git prompt for bash
 
-Bash prompt written in pure bash script.
+Bash git prompt written in pure bash script.
 
 Under the hood the [git prompt provided by
 git](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
